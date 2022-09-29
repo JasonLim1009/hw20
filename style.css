@@ -240,12 +240,12 @@ nav .navbar-top {
     border: none;
     font-size: 1.5rem;
     margin-left: 10px;
-    color: #c24c37;
+    color: #37c2b9;
     cursor: pointer;
 }
 
 .top button:hover {
-    color: #e40505;
+    color: #05e4e0;
 }
 
 .top h3 {
@@ -476,18 +476,21 @@ ul .nav-links {
 }
 
 .item img {
-    width: 100%;
-    height: 100%;
-    padding: 20px 10px;
+    width: 70%;
+    height: 80%;
+    padding: 20px;
+    margin: 30px;
 }
 
 #hearderSlide .MS-controls .MS-left {
     border: none;
     left: 10px;
+    background: #49989e;
 }
 #hearderSlide .MS-controls .MS-right {
     border: none;
     right: 10px;
+    background: #49989e;
 }
 
 .MS-right:focus,
@@ -687,6 +690,7 @@ main {
     align-items: center;
     justify-content: center;
     position: relative;
+    padding: 5px;
 }
 
 .pop-mobiles-1 {
@@ -710,7 +714,7 @@ main {
     position: absolute;
     left: 0;
     bottom: 0;
-    width: 100%;
+    width: 90%;
     z-index: 0;
 }
 
